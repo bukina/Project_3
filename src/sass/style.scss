@@ -1,0 +1,23 @@
+@import url("https://fonts.googleapis.com/css2?family=Aleo&family=Josefin+Sans:wght@400;700&display=swap");
+
+$lg: 1280px;
+$md: 1024px;
+$sm: 768px;
+$sx: 400px;
+
+$main_font: "Aleo", serif;
+$sec_font: "Josefin Sans", sans-serif;
+
+$text_color: #ffffff;
+$main_color: #496bfe;
+
+body {
+    font-size: 1.2em;
+}
+* {
+    box-sizing: border-box;
+}
+
+.p {
+    color: $main_color;
+}
