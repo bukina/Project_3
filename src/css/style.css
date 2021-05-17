@@ -460,7 +460,7 @@ img {
 .blockquote {
   margin: 0; }
 
-.blockquote::before {
+.blockquote:before {
   content: '"';
   font-size: 2em;
   color: #5474fd;
